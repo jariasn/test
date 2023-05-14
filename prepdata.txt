@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ls datasets/trainset/*.jpg > datasets/train.txt
+ls datasets/validset/*.jpg > datasets/valid.txt
